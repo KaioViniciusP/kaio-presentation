@@ -8,7 +8,7 @@
   <a href="mailto:kaioovinicius101@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://github.com/kaiodeglock">
+  <a href="https://github.com/KaioViniciusP">
     <img src="https://img.shields.io/badge/GitHub-kaiodeglock-5B21B6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </p>
@@ -81,20 +81,20 @@ Every developer starts somewhere — this is my starting point, and I’m buildi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kaiodeglock&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiodeglock&layout=compact&theme=midnight-purple" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KaioViniciusP&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioViniciusP&layout=compact&theme=midnight-purple" />
 </p>
 
 <p align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=kaiodeglock&theme=midnight-purple" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=KaioViniciusP&theme=midnight-purple" />
 </p>
 
 ---
 
 ## 🌱 Next Steps
 
-- [ ] Start my first programming language
-- [ ] Create my first GitHub projects
+- [X] Start my first programming language
+- [x] Create my first GitHub projects
 - [ ] Practice Git version control
 - [ ] Build a portfolio that shows my progress
 - [ ] Apply for opportunities in the IT field
